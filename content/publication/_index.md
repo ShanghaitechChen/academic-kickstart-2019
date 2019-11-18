@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: ANOVA Gaussian process modeling for high-dimensional stochastic computational models
 
 # View.
 #   1 = List
