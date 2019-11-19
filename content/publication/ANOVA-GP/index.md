@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "ANOVA Gaussian process modeling for high-dimensional stochastic computational models"
-authors: 
+authors:
 date: 2019-11-13
 doi:
 
