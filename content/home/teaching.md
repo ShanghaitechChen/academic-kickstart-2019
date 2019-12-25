@@ -23,5 +23,5 @@ weight = 100
 
 - SI140: Probability and Statistics, 2017 Spring
 - SI131: Linear Algebra, 2017 Fall
-- SI151: Optimization and machine learning, 2018 Spring
+- [SI151: Optimization and machine learning, 2018 Spring](http://shiyuanming.github.io/ml.html)
 - SI214: Numerical Methods for PDEs, 2018 fall
