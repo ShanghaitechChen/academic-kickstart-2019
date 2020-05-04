@@ -65,4 +65,4 @@ user_groups:
 
 I am a 1st year PhD student in [Computer Science at University of Maryland](https://www.cs.umd.edu/). Before coming to the US, I received my Master’s degree from [ShanghaiTech University](http://www.shanghaitech.edu.cn/eng/main.htm), advised by Prof. [Qifeng Liao](https://scholar.google.com/citations?user=9XKE7FYAAAAJ&hl=en). Before that, I got my Bachelor degree from [HeFei University of Technology](http://en.hfut.edu.cn/index.php) in 2016, majored in Applied Mathematics.
 
-Currently my research mainly focuses on machine learning theory, computational linear algebra and numerical PDEs.
+Currently my research mainly focuses on machine learning theory, computational linear algebra.
