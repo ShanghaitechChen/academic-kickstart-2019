@@ -17,6 +17,7 @@ weight = 100
 
 **Teaching Assistant at University of Maryland, College Park:**
 
+- [CMSC351: Algorithms, 2020 Spring](https://www.cs.umd.edu/class/spring2020/cmsc351/)
 - [CMSC422: Introduction to Machine Learning, 2019 Fall](http://www.cs.umd.edu/~djacobs/CMSC422/CMSC422_Fall19.htm)
 
 **Teaching Assistant at ShanghaiTech University:**
