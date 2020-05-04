@@ -18,12 +18,11 @@ organizations:
   url: "https://www.cs.umd.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine learning theory, computational linear algebra and numerical PDEs.
+bio: My research interests include Machine learning theory and computational linear algebra.
 
 interests:
 - Machine learning theory
 - Computational linear algebra
-- Numerical PDEs
 
 education:
   courses:
