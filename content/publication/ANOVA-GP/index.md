@@ -3,29 +3,29 @@
 
 title: "ANOVA Gaussian process modeling for high-dimensional stochastic computational models"
 authors:
-date: 2019-11-13
-doi:
+date: 2020-05-11
+doi: 10.1016/j.jcp.2020.109519
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-11-13
+publishDate: 2020-05-11
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Journal of Computational Physics"
 publication_short: ""
 
-abstract: "In this paper we present a novel analysis of variance Gaussian process (ANOVA-GP) emulator for models governed by partial differential equations (PDEs) with high-dimensional random inputs. Gaussian process (GP) is a widely used surrogate modeling strategy, but it can become invalid when the inputs are high-dimensional. In this new ANOVA-GP strategy, high-dimensional inputs are decomposed into unions of local low-dimensional inputs, and principal component analysis (PCA) is applied to provide dimension reduction for each ANOVA term. We then systematically build local GP models for PCA coefficients based on ANOVA decomposition to provide an emulator for the overall high-dimensional problem. We present a general mathematical framework of ANOVA-GP, validate its accuracy and demonstrate its efficiency with numerical experiments."
+abstract: "In this paper we present a novel analysis of variance Gaussian process (ANOVA-GP) emulator for models governed by partial differential equations (PDEs) with high-dimensional random inputs. The Gaussian process (GP) is a widely used surrogate modeling strategy, but it can become invalid when the inputs are high-dimensional. In this new ANOVA-GP strategy, high-dimensional inputs are decomposed into unions of local low-dimensional inputs, and principal component analysis (PCA) is applied to provide dimension reduction for each ANOVA term. We then systematically build local GP models for PCA coefficients based on ANOVA decomposition to provide an emulator for the overall high-dimensional problem. We present a general mathematical framework of ANOVA-GP, validate its accuracy and demonstrate its efficiency with numerical experiments."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
-categories: []
+tags: [Gaussian Process, PDE, high-dimesnional]
+categories: [Computational Mathematics]
 featured: False
 
 # Custom links (optional).
@@ -36,7 +36,7 @@ featured: False
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/1911.05580.pdf
+url_pdf: "files/anova-gp.pdf"
 url_code:
 url_dataset:
 url_poster:
