@@ -21,8 +21,9 @@ organizations:
 bio: My research interests include Machine learning theory and computational linear algebra.
 
 interests:
+- Certified defense
+- Adversarial training
 - Machine learning theory
-- Computational linear algebra
 
 education:
   courses:
@@ -63,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-I am a 1st year PhD student in [Computer Science at University of Maryland](https://www.cs.umd.edu/). Before coming to the US, I received my Master’s degree from [ShanghaiTech University](http://www.shanghaitech.edu.cn/eng/main.htm), advised by Prof. [Qifeng Liao](https://scholar.google.com/citations?user=9XKE7FYAAAAJ&hl=en). Before that, I got my Bachelor degree from [HeFei University of Technology](https://en.wikipedia.org/wiki/Hefei_University_of_Technology) in 2016, majored in Applied Mathematics.
+I am a 2st year PhD student in [Computer Science at University of Maryland](https://www.cs.umd.edu/). Before coming to the US, I received my Master’s degree from [ShanghaiTech University](http://www.shanghaitech.edu.cn/eng/main.htm), advised by Prof. [Qifeng Liao](https://scholar.google.com/citations?user=9XKE7FYAAAAJ&hl=en). Before that, I got my Bachelor degree from [HeFei University of Technology](https://en.wikipedia.org/wiki/Hefei_University_of_Technology) in 2016, majored in Applied Mathematics.
 
-Currently my research mainly focuses on machine learning theory, computational linear algebra.
+Currently my research mainly focuses on certified defense, adversarial training and machine learning theory.
