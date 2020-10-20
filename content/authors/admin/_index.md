@@ -31,7 +31,7 @@ education:
     institution: University of Maryland, College Park
     year: 2019-present
   - course: MEng in Computer Science
-    institution: ShanghaiTech University
+    institution: Chinese Academy of Sciences & ShanghaiTech University
     year: 2016-2019
   - course: BSc in Applied Mathematics
     institution: HeFei University of Technology
