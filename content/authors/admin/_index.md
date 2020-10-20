@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 1st year graduate student
+role: 2nd year graduate student
 
 # Organizations/Affiliations
 organizations:
