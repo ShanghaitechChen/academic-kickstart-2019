@@ -18,7 +18,7 @@ intensive experiments."
 authors: [Deeksha Dixit, Peihong Yu, Chen Chen]
 tags: [computer vision, cross-view]
 categories: [Computer Vision]
-date: 2019-12-16T19:31:15-05:00
+date: 2019-12-15T19:31:15-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
