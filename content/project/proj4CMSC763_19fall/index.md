@@ -11,7 +11,7 @@ one is a given matrix which has full rank and slowly-decaying singular values
 and the other one is generated from the numerical solutions of a piece-wise con-
 stant diffusion equation. A special treatment when the input matrix is positive
 semi-definite is also discussed and validated with numerical results."
-authors: []
+authors: [Chen Chen]
 tags: [Randomized Algorithms, Matrix Decompositon]
 categories: [Computational Linear Algebra]
 date: 2019-12-16T19:31:15-05:00
