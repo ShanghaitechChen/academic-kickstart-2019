@@ -15,7 +15,7 @@ images and aerial images taken from smaller altitude. We also employ particle
 filtering technique to accomplish the geo-localization task using the results from
 cross-view image matching. We demonstrate the effectiveness of our methods with
 intensive experiments."
-authors: [Deeksha Dixit, Peihong Yu, Chen Chen]
+authors: [[Deeksha Dixit](https://www.linkedin.com/in/d-dixit/), [Peihong Yu](https://peihongyu.com/), [Chen Chen](https://ccdtc.cc/)]
 tags: [computer vision, cross-view]
 categories: [Computer Vision]
 date: 2019-12-15T19:31:15-05:00
