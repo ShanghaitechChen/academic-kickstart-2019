@@ -6,7 +6,7 @@ summary: "In this project we study randomized Singular Value Decomposition (SVD)
 authors: [[Chen Chen](https://ccdtc.cc/)]
 tags: [Randomized Algorithms, Matrix Decompositon]
 categories: [Computational Linear Algebra]
-date: 2019-12-16T19:31:15-05:00
+date: “2019-12-16T19:31:15-05:00”
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
