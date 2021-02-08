@@ -2,12 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Randomized Singular Value Decomposition: A Study"
-summary: >
-    "In this project we study randomized Singular Value Decomposition (SVD). Apart from the standard randomized SVD algorithm, two modified versions, one for eliminating the influence of the round-off error and one for adaptively determining a desired error threshold, are introduced and discussed. Their efficiency and stability are demonstrated by experiments on two test matrices, one is a given matrix which has full rank and slowly-decaying singular values and the other one is generated from the numerical solutions of a piece-wise constant diffusion equation. A special treatment when the input matrix is positive semi-definite is also discussed and validated with numerical results."
+summary: "In this project we study randomized Singular Value Decomposition (SVD). Apart from the standard randomized SVD algorithm, two modified versions, one for eliminating the influence of the round-off error and one for adaptively determining a desired error threshold, are introduced and discussed. Their efficiency and stability are demonstrated by experiments on two test matrices, one is a given matrix which has full rank and slowly-decaying singular values and the other one is generated from the numerical solutions of a piece-wise constant diffusion equation. A special treatment when the input matrix is positive semi-definite is also discussed and validated with numerical results."
 authors: [[Chen Chen](https://ccdtc.cc/)]
 tags: [Randomized Algorithms, Matrix Decompositon]
 categories: [Computational Linear Algebra]
-date: “2019-12-16T19:31:15-05:00”
+date: 2019-12-16T19:31:15-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
